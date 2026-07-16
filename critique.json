@@ -1,0 +1,11 @@
+{
+  "kind": "critique-panel",
+  "score": 4,
+  "axes": {
+    "clarity": { "score": 4, "notes": "Scroll-driven reveal hierarchy is clear: video → ellipse mask → orbit → copy." },
+    "hierarchy": { "score": 4, "notes": "Brand watermark, center headline, side metadata, and CTA follow the brief layout." },
+    "typography": { "score": 5, "notes": "Instrument Serif + Manrope + Great Vibes loaded; AnimatedHeading character cascade on center title." },
+    "motion": { "score": 4, "notes": "Exact scrollYProgress keyframes preserved; orbit progress driven by useAnimationFrame; liquid-glass on CTAs." },
+    "brand": { "score": 4, "notes": "Shamoni black/white/FDFFB7 system; video at 80% opacity as requested earlier in session." }
+  }
+}
